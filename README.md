@@ -1,2 +1,0 @@
-# lxwt
-lxwt-web-resources
